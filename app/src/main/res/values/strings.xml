@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Console</string>
+    <string name="action_settings">Settings</string>
+    <string name="id_macchina">ID Macchina:</string>
+    <string name="ore_funzionamento">Ore Funzionamento:</string>
+    <string name="pezzi_prodotti">Pezzi Prodotti:</string>
+    <string name="velocita">Velocità:</string>
+    <string name="energia_assorbita">Energia Assorbita:</string>
+    <string name="temp_motore">Temperatura Motore:</string>
+    <string name="temp_slitta">Temperatura Slitta:</string>
+    <string name="manutenzione">Manutenzione:</string>
+    <string name="codice_allarme">Codice Allarme:</string>
+    <string name="refresh">Refresh</string>
+    <string name="zero_number">0</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
